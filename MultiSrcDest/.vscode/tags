@@ -1,0 +1,148 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Destination	../1SDPair/SprayWait.py	/^class Destination:$/;"	kind:class	line:62
+Destination	../2SDPair/SprayWait.py	/^class Destination:$/;"	kind:class	line:62
+Destination	../B-vs-1-Buffer/SprayWait.py	/^class Destination:$/;"	kind:class	line:62
+Destination	../SprayWait.py	/^class Destination:$/;"	kind:class	line:62
+Destination	../Spray_and_Wait_Simulation_DeterministicTest.py	/^class Destination:$/;"	kind:class	line:60
+MGKApprox	../2SDPair/MGKApprox.py	/^def MGKApprox(arrivalRate, meetingRate, numRelays, numCopies, numSources):$/;"	kind:function	line:3
+MGKApprox	../2SDPair/MGK_2SD_HeuristicApprox.py	/^def MGKApprox(arrivalRate, otherArrivalRate, meetingRate, numRelays, numCopies, numSources):$/;"	kind:function	line:3
+MGKApprox	../B-vs-1-Buffer/MGKApprox.py	/^def MGKApprox(arrivalRate, meetingRate, numRelays, numCopies, numSources):$/;"	kind:function	line:3
+MGKApprox	../MGKApprox.py	/^def MGKApprox(arrivalRate, meetingRate, numRelays, numCopies, numSources):$/;"	kind:function	line:3
+MGKApprox	../MGK_2SD_HeuristicApprox.py	/^def MGKApprox(arrivalRate, otherArrivalRate, meetingRate, numRelays, numCopies, numSources):$/;"	kind:function	line:3
+MGKApprox.py	../2SDPair/MGKApprox.py	1;"	kind:file	line:1
+MGKApprox.py	../B-vs-1-Buffer/MGKApprox.py	1;"	kind:file	line:1
+MGKApprox.py	../MGKApprox.py	1;"	kind:file	line:1
+MGK_2SD_HeuristicApprox.py	../2SDPair/MGK_2SD_HeuristicApprox.py	1;"	kind:file	line:1
+MGK_2SD_HeuristicApprox.py	../MGK_2SD_HeuristicApprox.py	1;"	kind:file	line:1
+RELAY_TRACE	../1SDPair/SprayWait.py	/^RELAY_TRACE = 0$/;"	kind:variable	line:8
+RELAY_TRACE	../2SDPair/SprayWait.py	/^RELAY_TRACE = 0$/;"	kind:variable	line:8
+RELAY_TRACE	../B-vs-1-Buffer/SprayWait.py	/^RELAY_TRACE = 0$/;"	kind:variable	line:8
+RELAY_TRACE	../SprayWait.py	/^RELAY_TRACE = 0$/;"	kind:variable	line:8
+RELAY_TRACE	../Spray_and_Wait_Simulation_DeterministicTest.py	/^RELAY_TRACE = 1$/;"	kind:variable	line:8
+Relay	../1SDPair/SprayWait.py	/^class Relay:$/;"	kind:class	line:76
+Relay	../2SDPair/SprayWait.py	/^class Relay:$/;"	kind:class	line:76
+Relay	../B-vs-1-Buffer/SprayWait.py	/^class Relay:$/;"	kind:class	line:76
+Relay	../SprayWait.py	/^class Relay:$/;"	kind:class	line:76
+Relay	../Spray_and_Wait_Simulation_DeterministicTest.py	/^class Relay:$/;"	kind:class	line:74
+SDapproxdelay	../2SDPair/runner.py	/^                                                          number_relays, number_copies, scenario_params.numSources)$/;"	kind:variable	line:61
+SDapproxdelay	../B-vs-1-Buffer/runner.py	/^                                                          number_relays, number_copies, scenario_params.numSources)$/;"	kind:variable	line:61
+SDapproxdelay	../runner.py	/^                                                          number_relays, number_copies, scenario_params.numSources)$/;"	kind:variable	line:61
+SOURCE_TRACE	../1SDPair/SprayWait.py	/^SOURCE_TRACE = 1$/;"	kind:variable	line:7
+SOURCE_TRACE	../2SDPair/SprayWait.py	/^SOURCE_TRACE = 1$/;"	kind:variable	line:7
+SOURCE_TRACE	../B-vs-1-Buffer/SprayWait.py	/^SOURCE_TRACE = 1$/;"	kind:variable	line:7
+SOURCE_TRACE	../SprayWait.py	/^SOURCE_TRACE = 1$/;"	kind:variable	line:7
+SOURCE_TRACE	../Spray_and_Wait_Simulation_DeterministicTest.py	/^SOURCE_TRACE = 1$/;"	kind:variable	line:7
+Simulation	../1SDPair/SprayWait.py	/^               relay_buffersize, relay_meetingrate, sim_maxruntime, outputfile_name):$/;"	kind:function	line:119
+Simulation	../2SDPair/SprayWait.py	/^               relay_buffersize, relay_meetingrate, sim_maxruntime, outputfile_name):$/;"	kind:function	line:119
+Simulation	../B-vs-1-Buffer/SprayWait.py	/^               relay_buffersize, relay_meetingrate, sim_maxruntime, outputfile_name):$/;"	kind:function	line:119
+Simulation	../SprayWait.py	/^               relay_buffersize, relay_meetingrate, sim_maxruntime, outputfile_name):$/;"	kind:function	line:119
+Source	../1SDPair/SprayWait.py	/^class Source:$/;"	kind:class	line:16
+Source	../2SDPair/SprayWait.py	/^class Source:$/;"	kind:class	line:16
+Source	../B-vs-1-Buffer/SprayWait.py	/^class Source:$/;"	kind:class	line:16
+Source	../SprayWait.py	/^class Source:$/;"	kind:class	line:16
+Source	../Spray_and_Wait_Simulation_DeterministicTest.py	/^class Source:$/;"	kind:class	line:16
+SprayWait.py	../1SDPair/SprayWait.py	1;"	kind:file	line:1
+SprayWait.py	../2SDPair/SprayWait.py	1;"	kind:file	line:1
+SprayWait.py	../B-vs-1-Buffer/SprayWait.py	1;"	kind:file	line:1
+SprayWait.py	../SprayWait.py	1;"	kind:file	line:1
+Spray_and_Wait_Simulation_DeterministicTest.py	../Spray_and_Wait_Simulation_DeterministicTest.py	1;"	kind:file	line:1
+__init__	../1SDPair/SprayWait.py	/^    def __init__(self, env, arrival_rate, initial_queue_length, flow_id, number_copies, outputfile):$/;"	kind:member	line:17
+__init__	../1SDPair/SprayWait.py	/^    def __init__(self, env, relay_id, meeting_rate, max_buffersize, list_of_sources, list_of_destinations, outputfile):$/;"	kind:member	line:77
+__init__	../1SDPair/SprayWait.py	/^    def __init__(self, flow_id):$/;"	kind:member	line:63
+__init__	../2SDPair/SprayWait.py	/^    def __init__(self, env, arrival_rate, initial_queue_length, flow_id, number_copies, outputfile):$/;"	kind:member	line:17
+__init__	../2SDPair/SprayWait.py	/^    def __init__(self, env, relay_id, meeting_rate, max_buffersize, list_of_sources, list_of_destinations, outputfile):$/;"	kind:member	line:77
+__init__	../2SDPair/SprayWait.py	/^    def __init__(self, flow_id):$/;"	kind:member	line:63
+__init__	../B-vs-1-Buffer/SprayWait.py	/^    def __init__(self, env, arrival_rate, initial_queue_length, flow_id, number_copies, outputfile):$/;"	kind:member	line:17
+__init__	../B-vs-1-Buffer/SprayWait.py	/^    def __init__(self, env, relay_id, meeting_rate, max_buffersize, list_of_sources, list_of_destinations, outputfile):$/;"	kind:member	line:77
+__init__	../B-vs-1-Buffer/SprayWait.py	/^    def __init__(self, flow_id):$/;"	kind:member	line:63
+__init__	../SprayWait.py	/^    def __init__(self, env, arrival_rate, initial_queue_length, flow_id, number_copies, outputfile):$/;"	kind:member	line:17
+__init__	../SprayWait.py	/^    def __init__(self, env, relay_id, meeting_rate, max_buffersize, list_of_sources, list_of_destinations, outputfile):$/;"	kind:member	line:77
+__init__	../SprayWait.py	/^    def __init__(self, flow_id):$/;"	kind:member	line:63
+__init__	../Spray_and_Wait_Simulation_DeterministicTest.py	/^    def __init__(self, env, arrival_rate, initial_queue_length, flow_id, number_copies):$/;"	kind:member	line:17
+__init__	../Spray_and_Wait_Simulation_DeterministicTest.py	/^    def __init__(self, env, relay_id, meeting_rate, max_buffersize, list_of_sources, list_of_destinations):$/;"	kind:member	line:75
+__init__	../Spray_and_Wait_Simulation_DeterministicTest.py	/^    def __init__(self, flow_id):$/;"	kind:member	line:61
+approxdelay	../2SDPair/runner.py	/^                                                              number_relays, number_copies, scenario_params.numSources)$/;"	kind:variable	line:59
+approxdelay	../B-vs-1-Buffer/runner.py	/^                                                              number_relays, number_copies, scenario_params.numSources)$/;"	kind:variable	line:59
+approxdelay	../runner.py	/^                                                              number_relays, number_copies, scenario_params.numSources)$/;"	kind:variable	line:59
+configuration	../1SDPair/runner.py	/^configuration = pd.read_excel(sys.argv[1], index_col=0)$/;"	kind:variable	line:8
+configuration	../2SDPair/runner.py	/^configuration = pd.read_excel(sys.argv[1], index_col=0)$/;"	kind:variable	line:10
+configuration	../B-vs-1-Buffer/runner.py	/^configuration = pd.read_excel(sys.argv[1], index_col=0)$/;"	kind:variable	line:10
+configuration	../runner.py	/^configuration = pd.read_excel(sys.argv[1], index_col=0)$/;"	kind:variable	line:10
+deliver_packet	../1SDPair/SprayWait.py	/^    def deliver_packet(self):$/;"	kind:member	line:67
+deliver_packet	../2SDPair/SprayWait.py	/^    def deliver_packet(self):$/;"	kind:member	line:67
+deliver_packet	../B-vs-1-Buffer/SprayWait.py	/^    def deliver_packet(self):$/;"	kind:member	line:67
+deliver_packet	../SprayWait.py	/^    def deliver_packet(self):$/;"	kind:member	line:67
+deliver_packet	../Spray_and_Wait_Simulation_DeterministicTest.py	/^    def deliver_packet(self):$/;"	kind:member	line:65
+dest	../Spray_and_Wait_Simulation_DeterministicTest.py	/^dest = Destination(1)$/;"	kind:variable	line:119
+env	../Spray_and_Wait_Simulation_DeterministicTest.py	/^env = simpy.Environment()$/;"	kind:variable	line:116
+list_packet_arrivalrates	../1SDPair/runner.py	/^                        list_packet_arrivalrates = [scenario_params.commonArrivalRate] * (scenario_params.numSources - 1)$/;"	kind:variable	line:35
+list_packet_arrivalrates	../2SDPair/runner.py	/^                        list_packet_arrivalrates = [scenario_params.commonArrivalRate] * (scenario_params.numSources - 1)$/;"	kind:variable	line:37
+list_packet_arrivalrates	../B-vs-1-Buffer/runner.py	/^                        list_packet_arrivalrates = [scenario_params.commonArrivalRate] * (scenario_params.numSources - 1)$/;"	kind:variable	line:37
+list_packet_arrivalrates	../runner.py	/^                        list_packet_arrivalrates = [scenario_params.commonArrivalRate] * (scenario_params.numSources - 1)$/;"	kind:variable	line:37
+meet_destination	../1SDPair/SprayWait.py	/^    def meet_destination(self, dest):$/;"	kind:member	line:105
+meet_destination	../2SDPair/SprayWait.py	/^    def meet_destination(self, dest):$/;"	kind:member	line:105
+meet_destination	../B-vs-1-Buffer/SprayWait.py	/^    def meet_destination(self, dest):$/;"	kind:member	line:105
+meet_destination	../SprayWait.py	/^    def meet_destination(self, dest):$/;"	kind:member	line:105
+meet_destination	../Spray_and_Wait_Simulation_DeterministicTest.py	/^    def meet_destination(self, dest):$/;"	kind:member	line:102
+meet_source	../1SDPair/SprayWait.py	/^    def meet_source(self, src):$/;"	kind:member	line:93
+meet_source	../2SDPair/SprayWait.py	/^    def meet_source(self, src):$/;"	kind:member	line:93
+meet_source	../B-vs-1-Buffer/SprayWait.py	/^    def meet_source(self, src):$/;"	kind:member	line:93
+meet_source	../SprayWait.py	/^    def meet_source(self, src):$/;"	kind:member	line:93
+meet_source	../Spray_and_Wait_Simulation_DeterministicTest.py	/^    def meet_source(self, src):$/;"	kind:member	line:90
+number_scenarios	../1SDPair/runner.py	/^number_scenarios = configuration.shape[1]$/;"	kind:variable	line:9
+number_scenarios	../2SDPair/runner.py	/^number_scenarios = configuration.shape[1]$/;"	kind:variable	line:11
+number_scenarios	../B-vs-1-Buffer/runner.py	/^number_scenarios = configuration.shape[1]$/;"	kind:variable	line:11
+number_scenarios	../runner.py	/^number_scenarios = configuration.shape[1]$/;"	kind:variable	line:11
+relay	../Spray_and_Wait_Simulation_DeterministicTest.py	/^relay = Relay(env, 1, 2, 10, [src], [dest])$/;"	kind:variable	line:121
+results_outfile	../1SDPair/runner.py	/^    results_outfile = open(scenario_params.fileName, "w")$/;"	kind:variable	line:16
+results_outfile	../2SDPair/runner.py	/^    results_outfile = open(scenario_params.fileName, "w")$/;"	kind:variable	line:18
+results_outfile	../B-vs-1-Buffer/runner.py	/^    results_outfile = open(scenario_params.fileName, "w")$/;"	kind:variable	line:18
+results_outfile	../runner.py	/^    results_outfile = open(scenario_params.fileName, "w")$/;"	kind:variable	line:18
+run	../1SDPair/SprayWait.py	/^    def run(self):$/;"	kind:member	line:49
+run	../2SDPair/SprayWait.py	/^    def run(self):$/;"	kind:member	line:49
+run	../B-vs-1-Buffer/SprayWait.py	/^    def run(self):$/;"	kind:member	line:49
+run	../SprayWait.py	/^    def run(self):$/;"	kind:member	line:49
+run	../Spray_and_Wait_Simulation_DeterministicTest.py	/^    def run(self):$/;"	kind:member	line:46
+runner.py	../1SDPair/runner.py	1;"	kind:file	line:1
+runner.py	../2SDPair/runner.py	1;"	kind:file	line:1
+runner.py	../B-vs-1-Buffer/runner.py	1;"	kind:file	line:1
+runner.py	../runner.py	1;"	kind:file	line:1
+scenario_params	../1SDPair/runner.py	/^    scenario_params = configuration[scenario]$/;"	kind:variable	line:12
+scenario_params	../2SDPair/runner.py	/^    scenario_params = configuration[scenario]$/;"	kind:variable	line:14
+scenario_params	../B-vs-1-Buffer/runner.py	/^    scenario_params = configuration[scenario]$/;"	kind:variable	line:14
+scenario_params	../runner.py	/^    scenario_params = configuration[scenario]$/;"	kind:variable	line:14
+serve_packet	../1SDPair/SprayWait.py	/^    def serve_packet(self):$/;"	kind:member	line:30
+serve_packet	../2SDPair/SprayWait.py	/^    def serve_packet(self):$/;"	kind:member	line:30
+serve_packet	../B-vs-1-Buffer/SprayWait.py	/^    def serve_packet(self):$/;"	kind:member	line:30
+serve_packet	../SprayWait.py	/^    def serve_packet(self):$/;"	kind:member	line:30
+serve_packet	../Spray_and_Wait_Simulation_DeterministicTest.py	/^    def serve_packet(self):$/;"	kind:member	line:28
+sim_avgdelay	../1SDPair/runner.py	/^                            sim_avgdelay = sim_avgqueuelength \/ sim_arrivalrate$/;"	kind:variable	line:55
+sim_avgdelay	../2SDPair/runner.py	/^                            sim_avgdelay = sim_avgqueuelength \/ sim_arrivalrate$/;"	kind:variable	line:57
+sim_avgdelay	../B-vs-1-Buffer/runner.py	/^                            sim_avgdelay = sim_avgqueuelength \/ sim_arrivalrate$/;"	kind:variable	line:57
+sim_avgdelay	../runner.py	/^                            sim_avgdelay = sim_avgqueuelength \/ sim_arrivalrate$/;"	kind:variable	line:57
+sim_avgqueuelength	../1SDPair/runner.py	/^                            sim_avgqueuelength = np.sum(sim_queuelengths * sim_timedurations) \/ scenario_params.maxRuntime$/;"	kind:variable	line:54
+sim_avgqueuelength	../2SDPair/runner.py	/^                            sim_avgqueuelength = np.sum(sim_queuelengths * sim_timedurations) \/ scenario_params.maxRuntime$/;"	kind:variable	line:56
+sim_avgqueuelength	../B-vs-1-Buffer/runner.py	/^                            sim_avgqueuelength = np.sum(sim_queuelengths * sim_timedurations) \/ scenario_params.maxRuntime$/;"	kind:variable	line:56
+sim_avgqueuelength	../runner.py	/^                            sim_avgqueuelength = np.sum(sim_queuelengths * sim_timedurations) \/ scenario_params.maxRuntime$/;"	kind:variable	line:56
+sim_queuelengths	../1SDPair/runner.py	/^                            sim_queuelengths = trace_forsource[5][:-1].values$/;"	kind:variable	line:52
+sim_queuelengths	../2SDPair/runner.py	/^                            sim_queuelengths = trace_forsource[5][:-1].values$/;"	kind:variable	line:54
+sim_queuelengths	../B-vs-1-Buffer/runner.py	/^                            sim_queuelengths = trace_forsource[5][:-1].values$/;"	kind:variable	line:54
+sim_queuelengths	../runner.py	/^                            sim_queuelengths = trace_forsource[5][:-1].values$/;"	kind:variable	line:54
+sim_timedurations	../1SDPair/runner.py	/^                            sim_timedurations = trace_forsource[2].diff()[1:].values$/;"	kind:variable	line:53
+sim_timedurations	../2SDPair/runner.py	/^                            sim_timedurations = trace_forsource[2].diff()[1:].values$/;"	kind:variable	line:55
+sim_timedurations	../B-vs-1-Buffer/runner.py	/^                            sim_timedurations = trace_forsource[2].diff()[1:].values$/;"	kind:variable	line:55
+sim_timedurations	../runner.py	/^                            sim_timedurations = trace_forsource[2].diff()[1:].values$/;"	kind:variable	line:55
+src	../Spray_and_Wait_Simulation_DeterministicTest.py	/^src = Source(env, 1, 0, 1, 2)$/;"	kind:variable	line:118
+trace	../1SDPair/runner.py	/^                        trace = pd.read_csv(scenario_params.traceFileName, header = None)$/;"	kind:variable	line:46
+trace	../2SDPair/runner.py	/^                        trace = pd.read_csv(scenario_params.traceFileName, header = None)$/;"	kind:variable	line:48
+trace	../B-vs-1-Buffer/runner.py	/^                        trace = pd.read_csv(scenario_params.traceFileName, header = None)$/;"	kind:variable	line:48
+trace	../runner.py	/^                        trace = pd.read_csv(scenario_params.traceFileName, header = None)$/;"	kind:variable	line:48
+trace_forsource	../1SDPair/runner.py	/^                            trace_forsource = trace[(trace[0] == "Source") & (trace[1] == s)]$/;"	kind:variable	line:49
+trace_forsource	../2SDPair/runner.py	/^                            trace_forsource = trace[(trace[0] == "Source") & (trace[1] == s)]$/;"	kind:variable	line:51
+trace_forsource	../B-vs-1-Buffer/runner.py	/^                            trace_forsource = trace[(trace[0] == "Source") & (trace[1] == s)]$/;"	kind:variable	line:51
+trace_forsource	../runner.py	/^                            trace_forsource = trace[(trace[0] == "Source") & (trace[1] == s)]$/;"	kind:variable	line:51
